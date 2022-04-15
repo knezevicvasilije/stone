@@ -504,10 +504,10 @@ header {
   background: url('../img/okucnica/kuca5.jpeg') center/cover;
 }
 .testimonial3{
-  background: url('../img/okucnica/kaamin.jpeg')no-repeat center/cover;
+  background: url('../img/final/277702518_364300822297755_8180013960302244685_n.jpeg')no-repeat center/cover;
 }
 .testimonial4{
-  background: url('../img/okucnica/dimnjak.jpeg')no-repeat center/cover;
+  background: url('../img/final/277830859_836703827285156_1695830767114003387_n.jpeg')no-repeat center/cover;
 }
 .testimonial5{
   background: url('../img/okucnica/drvo.jpeg')no-repeat center/cover;
@@ -527,7 +527,6 @@ header {
   max-width: 50rem;
   max-height: 40rem;
 }
-
 .gridGallery{
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -541,7 +540,6 @@ header {
   font-weight: 400;
   position: relative;
 }
-
 .invest__item__subtitle::after {
   position: absolute;
   content: '';
@@ -574,10 +572,6 @@ header {
   width: 20rem;
   text-align: center;
   box-shadow: 1px 10px 30px -10px #ec4e20;
-  /*
-    Button hover effect resource
-    https://codepen.io/alticreation/pen/zBZwOP
-    */
   display: inline-block;
   transition: all .3s;
   position: relative;
@@ -595,7 +589,6 @@ header {
   background-color: #ffffff;
   z-index: -2;
 }
-
 .btn__invest:before {
   content: '';
   position: absolute;
